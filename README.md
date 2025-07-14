@@ -2,6 +2,7 @@
 
 This repository contains notebooks used in the Redi School machine learning course. Each notebook begins with a short "Learning Resources" section linking to external documentation and showing a minimal example of a `train_test_split` call. You will also find blank cells in many notebooks marked with a practice comment so you can try out the concepts yourself. The notebooks cover topics from basic data manipulation to more advanced models.
 
+
 ## Running the notebooks
 
 1. Install Jupyter and the required Python packages (e.g. `pandas`, `numpy`, `scikit-learn`, `matplotlib`).
